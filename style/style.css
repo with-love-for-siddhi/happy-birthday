@@ -44,7 +44,7 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 2.5rem;
 }
 
 .one > img {
@@ -55,7 +55,7 @@ body {
 }
 
 .two {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: lighter;
 }
 
@@ -300,7 +300,7 @@ body {
   }
 
   .nine p {
-    font-size: 1.8rem;
+    font-size: 1rem;
     font-weight: lighter;
   }
 
